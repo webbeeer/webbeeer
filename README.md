@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello, I'm Henrique! 👋
 
-<!--
-**webbeeer/webbeeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **Information and Computer Systems** student at **Camosun College** in Victoria, BC.
 
-Here are some ideas to get you started:
+### 🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** Java, Python, SQL, HTML5, CSS3, JavaScript.
+* **Frameworks & Libraries:** Bootstrap.
+* **Tools:** Git, Linux (Rocky/RHEL, CLI, Figma), VS Code.
+* **Hardware/IoT:** Raspberry Pi, PC Building & Optimization.
+
+### 📫 How to reach me:
+* **LinkedIn:** https://www.linkedin.com/in/henrique-webber-74669537a/
+* **Email:** silveirahenrique555@gmail.com
+* **Location:** Victoria, BC, Canada 🇨🇦
